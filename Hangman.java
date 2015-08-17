@@ -1,7 +1,7 @@
 public class Hangman {
 
 	public static void main(String[] args) {
-		// making a game fron Game.java
+		// making a game from Game.java
 		if (args.length == 0) {
 			System.out.println("Please enter a word");
 			System.exit(0);
