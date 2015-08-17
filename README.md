@@ -1,6 +1,6 @@
 # java-hangman
 
-This is the code with comments from [this](http://teamtreehouse.com/library/java-objects) Treehouse tutorial.
+This is the code __with comments__ from [this](http://teamtreehouse.com/library/java-objects) Treehouse tutorial.
 
 To play:
 
